@@ -1,2 +1,42 @@
-# CalculoMediaPrograma
-# Obs: Dentro a Pasta Obj/Debug, tem o programa executavel 
+# Layout Projeto,  Calcule sua parcela
+
+<a target="_blank">
+<target=_blank><img align="center"  alt="jonas-Dev" width="391" height="470" src ="https://github.com/user-attachments/assets/3eb38818-ab11-4ed3-9fbc-13a231cd839e" style="max-width: 100%;"></img></target>
+</a>
+
+
+# Logo C#
+
+<a target="_blank">
+<target=_blank><img align="center"  alt="jonas-C#" height ="300" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
+</a>
+
+# Projeto Calcule sua parcela, Programação Orientado Objeto  C#
+
+# Sobre o Projeto
+
+- Sistema para calcular sua parcela, projeto Orientação objeto em C#
+- Treinamento e atualização no aprendizado em programação orientado objeto
+- Treinamento , aprendendo a desenvolver, attributos, construtores, metodos, desenvolvimentos de telas, organização de classe em C#
+- Projeto remoto, sem banco de dados.
+- Tenho formação Técnico em informática, mas sempre estou me aprimorando na aréa de teconologia.
+
+# Ferramenta Aplicada Neste Curso
+
+- IDE Visual Studio
+
+# Tecnologia Aplicada no Projeto
+
+- Bak-end
+- C#
+
+# Como Executa o Projeto
+
+- Sistema calcule sua parcela
+-Obs: Dentro a Pasta Obj/Debug, tem o programa executavel 
+ 
+
+# Autor
+
+- Jonas Valereo - Técnico em Informática
+  
